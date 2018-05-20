@@ -1,0 +1,9 @@
+#ifndef SRC_CAMERA_PICTURE_H_
+#define SRC_CAMERA_PICTURE_H_
+
+#define CAMERA_PICTURE_SIZE (160*120)
+
+u32 full_pic[9603];
+u32 cam_pic[CAMERA_PICTURE_SIZE];
+
+#endif /* SRC_CAMERA_PICTURE_H_ */
