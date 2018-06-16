@@ -1,0 +1,13 @@
+Folder below is same as a source folder in this repository it's just part of Vivado environment now.
+Additional files are python code, C files and Matlab files.
+    *Python is used to train network and get coefficients: Weights and Biases
+    *C is used to implement Sigmoid function sampling and also to implement feedforward propagation in C (Just to make project easier to debug)
+    *Matlab is used to generate HDL scripts and also check compression and other stuff
+
+Whole project folder: https://drive.google.com/open?id=1SXkZEtmkra2aafBDGYnWIGx85r5_euAl
+
+Video tutorial how to use it: https://youtu.be/mA-b9qX1ySg
+
+I'm not sure will SDK work properly, Vivado is really sensitive to data moving. If you have any problems just make a new project and copy all files inside your project.
+
+Our team is now hard working to finish other projects, we will give our best to make serious and detailed documentation as soon as possible. So everyone should be able to make project works.
